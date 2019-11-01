@@ -1,30 +1,47 @@
 # Smart Irrigation/ Agriculture Story Board
 
-## Introduction
-This Project is a combition of Green-house Monitoring, Smart Village, Self Care Plant, Smart Farming, Smart Irrigation.
+## Types of Tasks
+*  Developement or QA(Testing).
 
-## Prerequisite
-* Basic Electronics
-  * Circuit Connections
-  * Understanding Circuits
+## Skills Required
+* Basic Electronics - A
+  * Circuit Connection
   * Circuit Debugging
-  * Breadboard
-  * Understanding of Power Distribution
-
-* Programming
-  * Arduino C
-  * HTML
-
+  * Power Supply Distribution
+* Arduino Programming - B
+* HTML Basics- C
 * Communication
-  * Understanding of Client-Server Communication
-  * Understanding of MQTT
+  * Client-Server Communication - D
+  * MQTT - E
+* Circuit Design - F
+* Documentation - G
 
-## Testing
-* Draw the Circuit diagram for each module/ project and push the file
-* Check the latest commit and upload the code and upload the *ino* file to the respective developement board.
-* Record the input and output parameters accordingly
-* Push the recorded observation to *Git*
+## Time Required
+* 15 Min - 2 Hr
+* 1 Day - 2 Days
 
-## Developement
-* Integrate all the modules/ projects to a single project.
-* Develop a UI for this project
+## Module 1 : *Testing ino Files in Repo*
+This process is to be followed for each project.
+* Identification of Circuit Components - A - 10 min - 1 person
+* Create a Circuit Design
+* Circuit Connections - A - 15 min - 1 persons
+* Check the appropriate *ino* file upload the code and validate the Output. - A, B, C - 2 persons
+* Document the Output - F - 1 person
+
+## Module 2 : *Cleaning the Repo*
+* Identification of working code from __Module 1__ - A, B, C - 2 persons
+* Create directories for __Testing__ and __Deployment__ and organize the code accordingly - G - 2 persons
+* Create a Circuit diagram and upload - A, F - 2 persons
+* Upload the Documented Values - G - 2 persons
+* For reference follow this Repo [Health-Kit](https://code.swecha.org/sriharshamvs/healthkit)
+
+## Module 3 :
+Skill Required A, B, C, D, F, G
+* Combine the projects
+  * [*Animal Detection and Crop Protection*](https://code.swecha.org/agriculture/animal-detection-and-crop-protection)
+  * [*Self Care Plant*](https://code.swecha.org/agriculture/self-care-plant)
+  * [*Smart Farming*](https://code.swecha.org/agriculture/smart-farming)
+  * [*Smart Farming*](https://code.swecha.org/agriculture/smart-farming)
+  * [*Smart Irrigation*](https://code.swecha.org/agriculture/smart-irrigation)
+  * [*Smart Village Project*](https://code.swecha.org/agriculture/smart-village-project)
+  * [*Green House Monitoring*](https://code.swecha.org/agriculture/project-1919)
