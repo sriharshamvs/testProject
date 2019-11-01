@@ -38,10 +38,7 @@ This process is to be followed for each project.
 ## Module 3 :
 Skill Required A, B, C, D, F, G - 5 days - 5 persons
 * Combine the projects
-  * [*Animal Detection and Crop Protection*](https://code.swecha.org/agriculture/animal-detection-and-crop-protection)
   * [*Self Care Plant*](https://code.swecha.org/agriculture/self-care-plant)
   * [*Smart Farming*](https://code.swecha.org/agriculture/smart-farming)
-  * [*Smart Farming*](https://code.swecha.org/agriculture/smart-farming)
   * [*Smart Irrigation*](https://code.swecha.org/agriculture/smart-irrigation)
-  * [*Smart Village Project*](https://code.swecha.org/agriculture/smart-village-project)
   * [*Green House Monitoring*](https://code.swecha.org/agriculture/project-1919)
