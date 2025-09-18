@@ -6,6 +6,7 @@
 ## Skills Required
 * Basic Electronics - A
   * Circuit Connection
+  asdkfjasdlkfjasdklfjaskdf
   * Circuit Debugging
   * Power Supply Distribution
 * Arduino Programming - B
