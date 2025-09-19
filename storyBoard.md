@@ -6,11 +6,12 @@
 ## Skills Required
 * Basic Electronics - A
   * Circuit Connection
+  asdkfjasdlkfjasdklfjaskdf
   * Circuit Debugging
   * Power Supply Distribution
 * Arduino Programming - B
 * HTML Basics- C
-* Communication
+* Communication heyyyy
   * Client-Server Communication - D
   * MQTT - E
 * Circuit Design - F
